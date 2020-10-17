@@ -12,6 +12,10 @@
 
 Build for Vim's terminal- and GUI mode with _true colors_ with support for many third-party syntax and UI plugins including bundled themes for [lightline.vim][gh-itchyny/lightline.vim] and [vim-airline][gh-vim-airline/vim-airline].
 
+## Changes in This Fork
+
+This fork was created due to the comment color being too dark for setups with transparent terminal backgrounds.
+
 ## Getting Started
 
 Visit the [official website][nord-home] to learn all about the [syntax highlighting][nord-home#syntax] features, details and elements of [UI and editor elements][nord-home#editor-details], the [various theme configurations][nord-home#configurations] and the [support for many plugins][nord-home#plugin-support].
